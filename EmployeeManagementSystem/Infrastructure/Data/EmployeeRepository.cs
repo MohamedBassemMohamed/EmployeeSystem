@@ -1,5 +1,4 @@
 ﻿using EmployeeManagementAPI.Models;
-using EmployeeManagementSystem.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace EmployeeManagementAPI.Repositories
